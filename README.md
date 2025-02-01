@@ -1,1 +1,3 @@
 # Landmine-Detection-Robotic-Vehicle-With-GPS-Positioning-Using-STM32
+
+The Landmine Detection Robotic Vehicle is powered by the STM32F407G microcontroller. A metal detector, interfaced using the ADC (Analog-to-Digital Converter), is used for detecting landmines. An ultrasonic sensor assists in obstacle detection, ensuring safe navigation. The system employs a GPS module for real-time location tracking and a GSM module, utilizing UART communication, to transmit detected coordinates to a remote system. Additionally, an L298N motor driver, controlled via PWM (Pulse Width Modulation), ensures precise speed and direction control of the wheels.
