@@ -1,2 +1,0 @@
-../Core/Src/MAGNETO.c:22:6:Magneto_init	24	static
-../Core/Src/MAGNETO.c:38:6:HMC5883L_ReadData	40	static

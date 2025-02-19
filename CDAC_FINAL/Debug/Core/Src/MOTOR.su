@@ -1,2 +1,0 @@
-../Core/Src/MOTOR.c:20:6:set_motor_direction	24	static
-../Core/Src/MOTOR.c:62:6:set_motor_speed	24	static
